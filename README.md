@@ -19,7 +19,7 @@ Inside the directory `/lib/` you will find these files:
 - [circle](lib/circle.rb) [DONE]
 - [geometric_base](lib/geometric_base.rb) [DONE]
 - [rectangle](lib/rectangle.rb) [DONE]
-- [sphere](lib/sphere.rb) [TODO]
+- [sphere](lib/sphere.rb) [DONE]
 - [square](lib/square.rb) [DONE]
 - [triangle_rectangle](lib/triangle_rectangle.rb) [TODO]
 - [smart_calculator.rb](lib/modules/smart_calculator.rb) [DONE]
