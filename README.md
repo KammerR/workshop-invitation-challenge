@@ -16,7 +16,7 @@ Read all this [README](README.md) file, and follow these steps:
 
 Inside the directory `/lib/` you will find these files:
 
-- [circle](lib/circle.rb) [TODO]
+- [circle](lib/circle.rb) [DONE]
 - [geometric_base](lib/geometric_base.rb) [DONE]
 - [rectangle](lib/rectangle.rb) [TODO]
 - [sphere](lib/sphere.rb) [TODO]
