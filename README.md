@@ -21,7 +21,7 @@ Inside the directory `/lib/` you will find these files:
 - [rectangle](lib/rectangle.rb) [DONE]
 - [sphere](lib/sphere.rb) [DONE]
 - [square](lib/square.rb) [DONE]
-- [triangle_rectangle](lib/triangle_rectangle.rb) [TODO]
+- [triangle_rectangle](lib/triangle_rectangle.rb) [DONE]
 - [smart_calculator.rb](lib/modules/smart_calculator.rb) [DONE]
 
 The purpose here is to implement correctly the methods that compose files tagged with `[TODO]`. The files tagged with `[DONE]` are already done, and you can read them to understand how to implement the other files.
