@@ -18,7 +18,7 @@ Inside the directory `/lib/` you will find these files:
 
 - [circle](lib/circle.rb) [DONE]
 - [geometric_base](lib/geometric_base.rb) [DONE]
-- [rectangle](lib/rectangle.rb) [TODO]
+- [rectangle](lib/rectangle.rb) [DONE]
 - [sphere](lib/sphere.rb) [TODO]
 - [square](lib/square.rb) [DONE]
 - [triangle_rectangle](lib/triangle_rectangle.rb) [TODO]
